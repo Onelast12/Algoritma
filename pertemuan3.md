@@ -13,7 +13,7 @@
 * Pseudocode adalah penulisan algoritma dalam bentuk teks sederhana yang menyerupai bahasa pemrograman.
 * Tidak memiliki aturan sintaks yang ketat seperti bahasa pemrograman asli.
 * Tujuannya untuk membantu memahami alur logika sebelum menuliskannya dalam kode.
-📌 Contoh Pseudocode Sederhana:
+*Contoh Pseudocode Sederhana:*
 *plaintext*
 ```
 Mulai
@@ -22,7 +22,6 @@ Mulai
     Cetak C
 Selesai
 ```
-📌 Terjemahan dalam Python:
 *python*
 ```
 A = int(input("Masukkan nilai A: "))
@@ -46,7 +45,7 @@ Pseudocode menggunakan struktur berikut:
 * Input → Memasukkan data (misalnya: "Baca angka").
 * Proses → Melakukan operasi (misalnya: "Hitung jumlah").
 * Output → Menampilkan hasil (misalnya: "Cetak hasil").
-📌 Contoh Pseudocode untuk Menentukan Bilangan Genap atau Ganjil:
+*Contoh Pseudocode untuk Menentukan Bilangan Genap atau Ganjil:*
 plaintext
 ```
 Mulai
@@ -57,7 +56,6 @@ Mulai
         Cetak "Bilangan Ganjil"
 Selesai
 ```
-📌 Terjemahan dalam Python:
 *python*
 ```
 N = int(input("Masukkan bilangan: "))
