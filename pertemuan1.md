@@ -5,7 +5,7 @@
  3. Mengenal notasi algoritma.
  4. Mampu memahami contoh algoritma sederhana.
 
-1. Apa itu Algoritma?
+## 1. Apa itu Algoritma?
  - Algoritma adalah langkah-langkah sistematis yg digunakan untuk menyelesaikan suatu masalah
  - Contoh Sederhana algoritma dalam kehidupan sehari-hari
     - Membuat mie instan:
