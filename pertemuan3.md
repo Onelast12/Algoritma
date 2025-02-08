@@ -70,14 +70,13 @@ else:
 # Flowchart menggunakan simbol standar:
 
 *Simbol	Fungsi	Gambar*
-Terminator	Menunjukkan "Mulai" atau "Selesai"	🔽 / 🔼
-Paralelogram	Input/Output (misalnya: "Baca" atau "Cetak")	⬛
-Persegi Panjang	Proses (misalnya: "Hitung jumlah")	▭
-Belah Ketupat	Keputusan (misalnya: "Jika kondisi X terpenuhi")	◇
-Panah	Arah alur algoritma	➡
-4️⃣ Contoh Pseudocode dan Flowchart dalam Pemrograman
-📌 Contoh 1: Menentukan Apakah Angka Positif, Negatif, atau Nol
-
+* Terminator	Menunjukkan "Mulai" atau "Selesai"	🔽 / 🔼
+* Paralelogram	Input/Output (misalnya: "Baca" atau "Cetak")	⬛
+* Persegi Panjang	Proses (misalnya: "Hitung jumlah")	▭
+* Belah Ketupat	Keputusan (misalnya: "Jika kondisi X terpenuhi")	◇
+* Panah	Arah alur algoritma	➡
+# 4️⃣ Contoh Pseudocode dan Flowchart dalam Pemrograman
+### 📌 Contoh 1: Menentukan Apakah Angka Positif, Negatif, atau Nol
 *Pseudocode:*
 plaintext
 ```
